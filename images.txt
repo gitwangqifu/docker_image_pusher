@@ -1,1 +1,2 @@
-mineru-vllm:latest
+xprobe/xinference:v1.13.0
+--platform=linux/amd64
