@@ -1,1 +1,1 @@
-xprobe/xinference:v1.13.0
+forceless/deeppresenter-sandbox:v1.1.38
